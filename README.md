@@ -7,6 +7,7 @@ Custom Content for the sims 4 thai ui edition
 Donate Full Verison https://www.patreon.com/simscolony
 ============================
 เปอร์เซ็นการแปล จากอัพเดทล่าสุด SIMS 4.4 V.1.36 ขึ้นไป
+
 1.Sims 4 88.72% 
 2.Get To Work 100% >>
 3.Get Together 76.20%
