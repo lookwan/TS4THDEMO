@@ -4,6 +4,12 @@ Mod For The Sims 4  DEMO thai langular
 Mod แสดงผลภาษาไทย The Sims 4
 Custom Content for the sims 4 thai ui edition
 
+
+| MOD   | THE SIMS 4 |
+| ------------- | ------------- |
+| ดาวโหลด | [MOD ไทย The Sims 4 ](https://github.com/simcolony/TS4THDEMO/blob/master/SIMSCOLONY_V36.package) |
+
+สนับสนุนแบบเวอร์ชั่นเต็ม 
 Donate Full Verison https://www.patreon.com/simscolony
 ======================================
 สงานลิขสิทธิ์ตามกฏหมายไทย
