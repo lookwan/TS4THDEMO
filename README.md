@@ -25,8 +25,14 @@
 # หากพบปัญหา แจ้งงานแปล
 ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
 
-# ภายใต้การอนุญาติ 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+# ลิขสิทธิ์งานภายใต้การคุ้มครองกฏหมายลิขสิทธิ์ไทย กรมทรัพย์สินทางปัญญา
+
+# การใช้งานโปรแกรมภายใต้กฏอนุญาติ 
+## http://cdn-assets-ts4.pulse.ea.com/Guide/TS4_Custom_Content_Guide.zip
+## https://forums.thesims.com/en_US/discussion/779844/maxis-documentation?fbclid=IwAR3i7YDNeoaWfNHJ_uLmUfzeVNIcf8gORINYgBocGDLSZQ9rbpDEG5MQG_Q
+
+The terms and conditions set out in The Sims 4 End User License Agreement (ea.com/1/product-eulas) and EA's Terms of Service (ea.com/terms-of-service) are applicable to the use of The Sims 4 product and services and all materials distributed by Maxis that relate to creating Custom Content and Mods for The Sims 4.
+
+
+
 
