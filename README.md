@@ -3,7 +3,7 @@
 
 | MOD   | THE SIMS 4 |
 | ------------- | ------------- |
-|GITHUB | [ ดาวโหลด MOD ภาษาไทย The Sims 4 DEMO](https://github.com/simcolony/TS4THDEMO/releases/download/TH434/SIMSCOLONY_V434.package) |
+|GITHUB MOD ภาษาไทย The Sims 4 DEMO  | [ ดาวโหลด ](https://github.com/simcolony/TS4THDEMO/releases/download/TH434/SIMSCOLONY_V434.package) |
 
 
 ![TS4THDEMO](https://i.imgur.com/Cb0ETW7.jpg)
