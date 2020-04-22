@@ -5,19 +5,6 @@
 | ------------- | ------------- |
 |GITHUB MOD ภาษาไทย The Sims 4 DEMO  | [ ดาวโหลด ](https://github.com/simcolony/TS4THDEMO/releases/download/TH434/SIMSCOLONY_V434.package) |
 
-
-![TS4THDEMO](https://i.imgur.com/Cb0ETW7.jpg)
-
-![WickedWhims V24](https://i.imgur.com/WX3uPMf.jpg)
-![WickedWhims V24](https://i.imgur.com/34GSL2S.jpg)
-![WickedWhims V24](https://i.imgur.com/rppsRWD.jpg)
-![WickedWhims V24](https://i.imgur.com/EumppKh.jpg)
-![WickedWhims V24](https://i.imgur.com/AtVlOpM.jpg)
-![WickedWhims V24](https://i.imgur.com/VlXvCl9.jpg)
-![WickedWhims V24](https://i.imgur.com/1FqiZmm.jpg)
-![WickedWhims V24](https://i.imgur.com/vfTgFyH.jpg)
-![WickedWhims V24](https://i.imgur.com/7dFetNb.jpg)
-
 # การแปลอัพเดทล่าสุด SIMS 4.4 V.1.36 ขึ้นไป
 ## แปลล่าสุดสนับสนุนได้ใน สนับสนุนแบบเวอร์ชั่นเต็ม https://www.patreon.com/simscolony
 
@@ -42,6 +29,20 @@
 19.Parenthood  51.12%
 20.Fitness 81%
 21.Toddlers 76%
+
+
+![TS4THDEMO](https://i.imgur.com/Cb0ETW7.jpg)
+
+![WickedWhims V24](https://i.imgur.com/WX3uPMf.jpg)
+![WickedWhims V24](https://i.imgur.com/34GSL2S.jpg)
+![WickedWhims V24](https://i.imgur.com/rppsRWD.jpg)
+![WickedWhims V24](https://i.imgur.com/EumppKh.jpg)
+![WickedWhims V24](https://i.imgur.com/AtVlOpM.jpg)
+![WickedWhims V24](https://i.imgur.com/VlXvCl9.jpg)
+![WickedWhims V24](https://i.imgur.com/1FqiZmm.jpg)
+![WickedWhims V24](https://i.imgur.com/vfTgFyH.jpg)
+![WickedWhims V24](https://i.imgur.com/7dFetNb.jpg)
+
 
 # สนับสนุนแบบเต็ม https://www.patreon.com/simscolony
 # Donate Full Verison https://www.patreon.com/simscolony
