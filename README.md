@@ -1,13 +1,14 @@
 # TS4THDEMO
-ดาวโหลด Mod ไทยฟรี
+ดาวโหลด Mod DEMO ไทยฟรี
 
 | MOD   | THE SIMS 4 |
 | ------------- | ------------- |
 |GITHUB MOD ภาษาไทย The Sims 4 DEMO  | [ ดาวโหลด ](https://github.com/simcolony/TS4THDEMO/releases/download/TH434/SIMSCOLONY_V434.package) |
 
-# การแปลอัพเดทล่าสุด SIMS 4.4 V.1.36 ขึ้นไป
-## แปลล่าสุดสนับสนุนได้ใน สนับสนุนแบบเวอร์ชั่นเต็ม https://www.patreon.com/simscolony
+# หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ https://www.patreon.com/simscolony
 
+
+# เปอร์ซ็นตัวแปลฟรี แปลบางภาคเท่านั้น 
 1.Sims 4 88.72% 
 
 2.Get To Work 100% >>
