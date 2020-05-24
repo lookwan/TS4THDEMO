@@ -5,7 +5,7 @@
 | ------------- | ------------- |
 |GITHUB MOD ภาษาไทย The Sims 4 DEMO  | [ ดาวโหลด ](https://github.com/simcolony/TS4THDEMO/releases/download/TH434/SIMSCOLONY_V434.package) |
 
-# ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
+# ซื้อเกม[The sims SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 
 
 # หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ https://www.patreon.com/simscolony
