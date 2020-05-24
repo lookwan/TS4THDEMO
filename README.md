@@ -7,7 +7,10 @@
 
 # หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ https://www.patreon.com/simscolony
 
-ซื้อเกมได้ที่ <a href="https://www.cdkeys.com?mw_aref=simscolony&amp;a_bid=c320bcff" target="_top"><img src="//affiliates.cdkeys.com/accounts/default1/banners/c320bcff.png" alt="" title="" width="300" height="150" /></a><img style="border:0" src="https://affiliates.cdkeys.com/scripts/imp.php?mw_aref=simscolony&amp;a_bid=c320bcff" width="1" height="1" alt="" />
+ซื้อเกมได้ที่ 
+<p>
+<a href="https://www.cdkeys.com?mw_aref=simscolony&amp;a_bid=c320bcff" target="_top"><img src="//affiliates.cdkeys.com/accounts/default1/banners/c320bcff.png" alt="" title="" width="300" height="150" /></a><img style="border:0" src="https://affiliates.cdkeys.com/scripts/imp.php?mw_aref=simscolony&amp;a_bid=c320bcff" width="1" height="1" alt="" />
+</p>
 
 # เปอร์ซ็นตัวแปลฟรี แปลบางภาคเท่านั้น 
 1.Sims 4 88.72% 
