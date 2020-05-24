@@ -5,12 +5,11 @@
 | ------------- | ------------- |
 |GITHUB MOD ภาษาไทย The Sims 4 DEMO  | [ ดาวโหลด ](https://github.com/simcolony/TS4THDEMO/releases/download/TH434/SIMSCOLONY_V434.package) |
 
+# ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
+
+
 # หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ https://www.patreon.com/simscolony
-
-#ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
-
-
-# เปอร์ซ็นตัวแปลฟรี แปลบางภาคเท่านั้น 
+## เปอร์ซ็นตัวแปลฟรี แปลบางภาคเท่านั้น 
 1.Sims 4 88.72% 
 
 2.Get To Work 100% >>
