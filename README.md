@@ -7,7 +7,7 @@
 
 # หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ https://www.patreon.com/simscolony
 
-ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
+#ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 
 
 # เปอร์ซ็นตัวแปลฟรี แปลบางภาคเท่านั้น 
