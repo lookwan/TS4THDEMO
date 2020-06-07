@@ -8,7 +8,7 @@
 # ซื้อเกม[The sims SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 
 
-# หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ https://www.patreon.com/simscolony
+# หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ [.patreon.com/simscolony](https://www.patreon.com/simscolony)
 ## เปอร์ซ็นตัวแปลฟรี แปลบางภาคเท่านั้น 
 1.Sims 4 88.72% 
 
