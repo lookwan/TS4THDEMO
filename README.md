@@ -4,7 +4,7 @@
 | MOD   | THE SIMS 4 |
 | ------------- | ------------- |
 |GITHUB MOD ภาษาไทย   | [ ดาวโหลด  The Sims 4 StangerVille](https://github.com/simscolony/TS4THDEMO/raw/master/SIMSCOLONY_512_StangerVille_2019.package) |
-|WickedWhims_Traditional_THAI | https://github.com/simcolony/WickedWhims_Traditional_THAI|
+|WickedWhims_Traditional_THAI | https://github.com/simscolony/WickedWhims_Traditional_THAI|
 
 
 # หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ [.patreon.com/simscolony](https://www.patreon.com/simscolony)
