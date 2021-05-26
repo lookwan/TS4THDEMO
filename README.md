@@ -2,7 +2,9 @@
 # ซื้อเกมแท้[The SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 
 MOD ไทยสำหรับการทดลองใช้ อัพเดทเมือ 2019
+
 ใช้ได้ฟรี แปลบางภาคเท่านั้นตามที่แจ้งเท่านั้น
+
 สามารถใช้ได้ตลอดโดยไดยไม่นำไปใช้เชิงพาณิชย์
 
 | MOD   | THE SIMS 4 |
