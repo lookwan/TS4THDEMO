@@ -7,14 +7,13 @@ MOD ไทยสำหรับการทดลองใช้ อัพเด
 
 | MOD   | THE SIMS 4 |
 | ------------- | ------------- |
-|GITHUB MOD ภาษาไทย   | [ ดาวโหลด  The Sims 4 MOD ไทยที่นี่](https://github.com/simscolony/TS4THDEMO/raw/master/SIMSCOLONY_512_StangerVille_2019.package) |
-|WickedWhims_Traditional_THAI | https://github.com/simscolony/WickedWhims_Traditional_THAI|
-
+|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2019](https://github.com/simscolony/TS4THDEMO/raw/master/SIMSCOLONY_512_StangerVille_2019.package) |
+|WickedWhims_Traditional_THAI | [WickedWhims_Traditional_THAI](https://simscolony.github.io/WickedWhims_Traditional_THAI)|
 
 # หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ [.patreon.com/simscolony](https://www.patreon.com/simscolony)
 
-
 ## เปอร์เซ็นการแปลอัพเดทล่าสุด 2019
+
 | ภาคที่รองรับ   | เปอร์เซ็นการแปล|
 | ------------- | ------------- |
 | 1.Sims 4 |  89.12% | 
@@ -49,15 +48,15 @@ MOD ไทยสำหรับการทดลองใช้ อัพเด
 
 ![TS4THDEMO](https://i.imgur.com/Cb0ETW7.jpg)
 
-![WickedWhims V24](https://i.imgur.com/WX3uPMf.jpg)
-![WickedWhims V24](https://i.imgur.com/34GSL2S.jpg)
-![WickedWhims V24](https://i.imgur.com/rppsRWD.jpg)
-![WickedWhims V24](https://i.imgur.com/EumppKh.jpg)
-![WickedWhims V24](https://i.imgur.com/AtVlOpM.jpg)
-![WickedWhims V24](https://i.imgur.com/VlXvCl9.jpg)
-![WickedWhims V24](https://i.imgur.com/1FqiZmm.jpg)
-![WickedWhims V24](https://i.imgur.com/vfTgFyH.jpg)
-![WickedWhims V24](https://i.imgur.com/7dFetNb.jpg)
+![TS4THDEMO](https://i.imgur.com/WX3uPMf.jpg)
+![TS4THDEMO](https://i.imgur.com/34GSL2S.jpg)
+![TS4THDEMO](https://i.imgur.com/rppsRWD.jpg)
+![TS4THDEMO](https://i.imgur.com/EumppKh.jpg)
+![TS4THDEMO](https://i.imgur.com/AtVlOpM.jpg)
+![TS4THDEMO](https://i.imgur.com/VlXvCl9.jpg)
+![TS4THDEMO](https://i.imgur.com/1FqiZmm.jpg)
+![TS4THDEMO](https://i.imgur.com/vfTgFyH.jpg)
+![TS4THDEMO](https://i.imgur.com/7dFetNb.jpg)
 
 
 # สนับสนุนแบบเต็ม https://www.patreon.com/simscolony
