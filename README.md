@@ -63,8 +63,9 @@ MOD ไทยสำหรับการทดลองใช้ อัพเด
 # สนับสนุนแบบเต็ม https://www.patreon.com/simscolony
 # Donate Full Verison https://www.patreon.com/simscolony
 
+
 # หากพบปัญหา แจ้งงานแปล
-ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
+# # ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
 
 # ลิขสิทธิ์งานภายใต้การคุ้มครองกฏหมายลิขสิทธิ์ไทย กรมทรัพย์สินทางปัญญา
 
