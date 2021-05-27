@@ -69,6 +69,7 @@ MOD ไทยสำหรับการทดลองใช้ อัพเด
 # # ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
 
 # ลิขสิทธิ์งานภายใต้การคุ้มครองกฏหมายลิขสิทธิ์ไทย กรมทรัพย์สินทางปัญญา
+![TS4THDEMO](https://imgur.com/NRrIqrT)
 
 # การใช้งานโปรแกรมภายใต้กฏอนุญาติ 
 ## http://cdn-assets-ts4.pulse.ea.com/Guide/TS4_Custom_Content_Guide.zip
