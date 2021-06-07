@@ -9,12 +9,12 @@ MOD ไทยสำหรับการทดลองใช้ อัพเด
 
 | MOD   | THE SIMS 4 |
 | ------------- | ------------- |
-|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2019](https://github.com/simscolony/TS4THDEMO/raw/master/SIMSCOLONY_512_StangerVille_2019.package) |
+|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2019](https://github.com/simscolony/TS4THDEMO/raw/master/SIMSCOLONY_743_REALM_OF_MAGIC_2019.package) |
 |WickedWhims_Traditional_THAI | [WickedWhims_Traditional_THAI](https://simscolony.github.io/WickedWhims_Traditional_THAI)|
 
 # หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ [.patreon.com/simscolony](https://www.patreon.com/simscolony)
 
-## เปอร์เซ็นการแปลอัพเดทล่าสุด 2019
+## เปอร์เซ็นการแปลอัพเดทล่าสุด 21 กันยายน 2019
 
 | ภาคที่รองรับ   | เปอร์เซ็นการแปล|
 | ------------- | ------------- |
@@ -46,7 +46,9 @@ MOD ไทยสำหรับการทดลองใช้ อัพเด
 | 26.Seasons | 81%| 
 | 27.Get Famous | 82%| 
 | 28.StangerVille | 86.5%| 
-
+|29.Island Living |81%|
+|30.Moschino |80%|
+|31.Realm of magic| 87%|
 
 ![TS4THDEMO](https://i.imgur.com/Cb0ETW7.jpg)
 
