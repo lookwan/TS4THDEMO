@@ -1,6 +1,6 @@
 # ดาวโหลด Mod DEMO ไทยฟรี 2019
 
-##MOD ไทยสำหรับการทดลองใช้ อัพเดทเมือ 2019
+## MOD ไทยสำหรับการทดลองใช้ อัพเดทเมือ 2019 New Realm of magic
 
 ## ซื้อเกมแท้[The SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 
