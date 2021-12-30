@@ -1,3 +1,5 @@
+
+
 # ดาวโหลด Mod DEMO ไทยฟรี 2019
 
 ## MOD ไทยสำหรับการทดลองใช้ อัพเดทเมือ 2019 New Realm of magic
@@ -15,6 +17,22 @@
 |WickedWhims_Traditional_THAI | [Wicked 18+ แปลไทย](https://simscolony.github.io/WickedWhims_Traditional_THAI)|
 
 # หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ [.patreon.com/simscolony](https://www.patreon.com/simscolony)
+
+-------------------------------------------
+# การลงไฟล์
+1.ไห้นำไฟล์ Mod ภาษาไทย ที่เราโหลดไปมาไว้ไน 
+
+>Documents\Electronic Arts\The Sims 4\Mods
+
+2.นำไฟล์ package ไปใส่ใน Floder ทั้งหมดแล้วเข้าเกม
+
+3.เปิด option ติ๊กเลือกตามภาพ
+ ![SIMS4DEMO](https://github.com/simscolony/TS4THDEMO/blob/master/menu2.png?raw=true)
+ 
+4.ออกเกมแล้วเข้าใหม่ MOD จะพร้อมใช้งาน
+
+
+------------------------------------------
 
 ## ซื้อเกมแท้[The SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 ## เปอร์เซ็นการแปลอัพเดทล่าสุด 21 กันยายน 2019
