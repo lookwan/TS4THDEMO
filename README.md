@@ -16,7 +16,7 @@
 |GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2019](https://github.com/simscolony/TS4THDEMO/raw/master/SIMSCOLONY_744_REALM_OF_MAGIC_2019.package) |
 |WickedWhims_Traditional_THAI | [Wicked 18+ แปลไทย](https://simscolony.github.io/WickedWhims_Traditional_THAI)|
 
-# หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ [.patreon.com/simscolony](https://www.patreon.com/simscolony)
+# หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ [facebook.com/SimsColony/](https://www.facebook.com/SimsColony)
 
 -------------------------------------------
 # การลงไฟล์
@@ -83,8 +83,8 @@
 ![TS4THDEMO](https://i.imgur.com/7dFetNb.jpg)
 
 
-# สนับสนุนแบบเต็ม https://www.patreon.com/simscolony
-# Donate Full Verison https://www.patreon.com/simscolony
+# สนับสนุนแบบเต็ม https://www.facebook.com/SimsColony/
+# Donate Full Verison https://www.facebook.com/SimsColony/
 
 
 # หากพบปัญหา แจ้งงานแปล
