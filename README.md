@@ -14,7 +14,7 @@
 | MOD   | THE SIMS 4 |
 | ------------- | ------------- |
 |GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2019](https://github.com/simscolony/TS4THDEMO/raw/master/SIMSCOLONY_744_REALM_OF_MAGIC_2019.package) |
-|WickedWhims_Traditional_THAI | [Wicked 18+ แปลไทย](https://simscolony.github.io/WickedWhims_Traditional_THAI)|
+|รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย] https://simscolony.github.io/I)|
 
 # หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ [facebook.com/SimsColony/](https://www.facebook.com/SimsColony)
 
@@ -31,9 +31,7 @@
  
 4.ออกเกมแล้วเข้าใหม่ MOD จะพร้อมใช้งาน
 
-
 ------------------------------------------
-
 ## ซื้อเกมแท้[The SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 ## เปอร์เซ็นการแปลอัพเดทล่าสุด 21 กันยายน 2019
 
@@ -67,9 +65,9 @@
 | 26.Seasons | 81%| 
 | 27.Get Famous | 82%| 
 | 28.StangerVille | 86.5%| 
-|29.Island Living |81%|
-|30.Moschino |80%|
-|31.Realm of magic| 87%|
+| 29.Island Living |81%|
+| 30.Moschino |80%|
+| 31.Realm of magic| 87%|
 
 ![TS4THDEMO](https://i.imgur.com/Cb0ETW7.jpg)
 ![TS4THDEMO](https://i.imgur.com/WX3uPMf.jpg)
