@@ -14,7 +14,7 @@
 | MOD   | THE SIMS 4 |
 | ------------- | ------------- |
 |GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2019](https://github.com/simscolony/TS4THDEMO/raw/master/SIMSCOLONY_744_REALM_OF_MAGIC_2019.package) |
-|รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย] (https://simscolony.github.io)|
+|รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย](https://simscolony.github.io)|
 
 # หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ [facebook.com/SimsColony/](https://www.facebook.com/SimsColony)
 
