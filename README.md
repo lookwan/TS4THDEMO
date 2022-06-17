@@ -1,6 +1,6 @@
 
  ![SIMS4DEMO](https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_616x353.jpg)
-# ดาวโหลด Mod DEMO ไทยฟรี 2022
+# ดาวโหลด Mod DEMO ภาษาไทยฟรี 2022
 
 ## MOD ไทยสำหรับการทดลองใช้ อัพเดทเมือ 2022 New WEARWEWOLF 
 
