@@ -8,15 +8,19 @@
 ### เงื่อนไขการใช้งาน
 - ใช้งานได้ฟรี ส่วนการแปลตามภาคที่ออกในปี 2022
 - ไม่อนุญาติให้รีอัพโหลด แก้ไข ดัดแปลง ทำซ้ำในเชิงพาณิชย์ 
+
 - ใช้ในการสตรีมเกมได้ โดยไม่แก้ไขดัดแปลโลโก้หรือข้อความ 
 - ปรับปรุงแก้ไข CAS การเล่นสำหรับเกมแท้อัพเดทในเดือนกรกฏาคม
 
 | MOD   | THE SIMS 4 |
 | ------------- | ------------- |
-|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2022](https://github.com/simscolony/TS4THDEMO/raw/master/SIMSCOLONY_744_REALM_OF_MAGIC_2019.package) |
-|รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย](https://simscolony.github.io)|
+|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2022]() |
+|รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย ดาวโหลดแยกได้ทันที](https://simscolony.github.io)|
 
-# หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ [facebook.com/SimsColony/](https://www.facebook.com/SimsColony)
+# หากพึงพอใจในผลงานสามารถสนับสนุนผ่านเพจหรือหน้าเว็บได้ทันที
+##[facebook.com/SimsColony/](https://www.facebook.com/SimsColony)
+##[https://www.patreon.com/simscolony](https://www.patreon.com/simscolony)
+
 
 -------------------------------------------
 # การลงไฟล์
