@@ -1,19 +1,19 @@
 
  ![SIMS4DEMO](https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_616x353.jpg)
-# ดาวโหลด Mod DEMO ไทยฟรี 2019
+# ดาวโหลด Mod DEMO ไทยฟรี 2022
 
-## MOD ไทยสำหรับการทดลองใช้ อัพเดทเมือ 2019 New Realm of magic
+## MOD ไทยสำหรับการทดลองใช้ อัพเดทเมือ 2022 New WEARWEWOLF 
 
 
 ### เงื่อนไขการใช้งาน
-- ใช้งานได้ฟรี ส่วนการแปลตามภาคที่ออกในปี 2019
+- ใช้งานได้ฟรี ส่วนการแปลตามภาคที่ออกในปี 2022
 - ไม่อนุญาติให้รีอัพโหลด แก้ไข ดัดแปลง ทำซ้ำในเชิงพาณิชย์ 
 - ใช้ในการสตรีมเกมได้ โดยไม่แก้ไขดัดแปลโลโก้หรือข้อความ 
 - ปรับปรุงแก้ไข CAS การเล่นสำหรับเกมแท้อัพเดทในเดือนกรกฏาคม
 
 | MOD   | THE SIMS 4 |
 | ------------- | ------------- |
-|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2019](https://github.com/simscolony/TS4THDEMO/raw/master/SIMSCOLONY_744_REALM_OF_MAGIC_2019.package) |
+|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2022](https://github.com/simscolony/TS4THDEMO/raw/master/SIMSCOLONY_744_REALM_OF_MAGIC_2019.package) |
 |รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย](https://simscolony.github.io)|
 
 # หากต้องการทุกภาคแปลครบสนับสนุนได้ที่ [facebook.com/SimsColony/](https://www.facebook.com/SimsColony)
@@ -30,10 +30,15 @@
  ![SIMS4DEMO](https://github.com/simscolony/TS4THDEMO/blob/master/menu2.png?raw=true)
  
 4.ออกเกมแล้วเข้าใหม่ MOD จะพร้อมใช้งาน
-
 ------------------------------------------
 ## ซื้อเกมแท้[The SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
-## เปอร์เซ็นการแปลอัพเดทล่าสุด 21 กันยายน 2019
+## เปอร์เซ็นการแปลอัพเดทล่าสุด 17 มิถุนายน 2565
+
+* การแปลบางส่วนอัพเดทตามภาคหลัก
+* ระบบสรรพนาม และ ป้ายงานท้าทาน ระบบเนื้อเรื่อง
+* ชุด KIT แปลครบ 100% เนื่องจากมีแต่ไอเท็ม
+* ระบบจันทรคติตามภาค WEARWEWOLF
+-------------------------------------
 
 | ภาคที่รองรับ   | เปอร์เซ็นการแปล|
 | ------------- | ------------- |
@@ -68,6 +73,22 @@
 | 29.Island Living |81%|
 | 30.Moschino |80%|
 | 31.Realm of magic| 87%|
+| 32.Discove University | 53.30%| 
+| 33.Tiny Living | 56.96%| 
+| 34.Eco Lifestyle |  53.46%| 
+| 35.Nifty Knitting|  53%| 
+| 36.Star Wars: Journey to Batuu | 42.40%| 
+| 37.Snowy Escapes|  47.65%| 
+| 38.Paranomal|  53.12%| 
+| 39.Bust the Dust Kit |  100%**| 
+| 40.Dream Home Decorator|  52.36 %| 
+| 41.Cottage Living  | 43.28%| 
+| 42.My Wedding Story 100%**| 
+| 43.Decor To The Max Kit | 100%**| 
+| 44.Moonlight Chic Kit|  100%**| 
+| 45.Little Campers Kit | 100%**| 
+| 46.The Sims™ 4 Werewolves | 43.38%| 
+ 
 
 ![TS4THDEMO](https://i.imgur.com/Cb0ETW7.jpg)
 ![TS4THDEMO](https://i.imgur.com/WX3uPMf.jpg)
