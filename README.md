@@ -19,8 +19,13 @@
 |รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย ดาวโหลดแยกได้ทันที](https://simscolony.github.io)|
 
 # หากพึงพอใจในผลงานสามารถสนับสนุนผ่านเพจหรือหน้าเว็บได้ทันที
-##[facebook.com/SimsColony/](https://www.facebook.com/SimsColony)
-##[https://www.patreon.com/simscolony](https://www.patreon.com/simscolony)
+
+สนับสนุนทันที
+-[https://www.patreon.com/simscolony](https://www.patreon.com/simscolony)
+-[รายละเอียดเพิ่มเติม](https://simscolony.github.io/Recent.html)
+
+ติดต่อสอบถาม
+-[facebook.com/SimsColony/](https://www.facebook.com/SimsColony)
 
 
 -------------------------------------------
