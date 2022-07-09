@@ -20,11 +20,15 @@
 
 # หากพึงพอใจในผลงานสามารถสนับสนุนผ่านเพจหรือหน้าเว็บได้ทันที
 
-สนับสนุนทันที
--[https://www.patreon.com/simscolony](https://www.patreon.com/simscolony)
+สนับสนุนทันที 
+
 -[รายละเอียดเพิ่มเติม](https://simscolony.github.io/Recent.html)
 
+-[https://www.patreon.com/simscolony](https://www.patreon.com/simscolony)
+
+
 ติดต่อสอบถาม
+
 -[facebook.com/SimsColony/](https://www.facebook.com/SimsColony)
 
 
