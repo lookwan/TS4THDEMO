@@ -31,7 +31,8 @@
 ติดต่อสอบถาม
 
 -[facebook.com/SimsColony/](https://www.facebook.com/SimsColony)
- ![SIMS4DEMO](https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_616x353.jpg)
+
+
 
 -------------------------------------------
 # การลงไฟล์
@@ -42,6 +43,7 @@
 2.นำไฟล์ package ไปใส่ใน Floder ทั้งหมดแล้วเข้าเกม
 
 3.เปิด option ติ๊กเลือกตามภาพ
+
  ![SIMS4DEMO](https://github.com/simscolony/TS4THDEMO/blob/master/menu2.png?raw=true)
  
 4.ออกเกมแล้วเข้าใหม่ MOD จะพร้อมใช้งาน
@@ -54,7 +56,7 @@
 * ชุด KIT แปลครบ 100% เนื่องจากมีแต่ไอเท็ม
 * ระบบจันทรคติตามภาค WEARWEWOLF
 -------------------------------------
-
+ ![SIMS4DEMO](https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_616x353.jpg)
 | ภาคที่รองรับ   | เปอร์เซ็นการแปล|
 | ------------- | ------------- |
 | 1.Sims 4 |  89.12% |
@@ -103,7 +105,7 @@
 | 44.Moonlight Chic Kit|  100%**| 
 | 45.Little Campers Kit | 100%**| 
 | 46.The Sims™ 4 Werewolves | 43.38%| 
- 
+| 47.The Sims™ 4 high school years | 10.38%| 
 
 ![TS4THDEMO](https://i.imgur.com/Cb0ETW7.jpg)
 ![TS4THDEMO](https://i.imgur.com/WX3uPMf.jpg)
