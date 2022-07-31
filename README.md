@@ -16,7 +16,7 @@
 
 | MOD   | THE SIMS 4 |
 | ------------- | ------------- |
-|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2022]() |
+|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2022](https://github.com/simscolony/TS4THDEMO/raw/master/%5BSIMSCOLONY%5D_Sims4_HSY_2022.package) |
 |รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย ดาวโหลดแยกได้ทันที](https://simscolony.github.io)|
 
 # หากพึงพอใจในผลงานสามารถสนับสนุนผ่านเพจหรือหน้าเว็บได้ทันที
