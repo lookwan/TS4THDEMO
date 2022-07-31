@@ -1,6 +1,9 @@
 
- ![SIMS4DEMO](https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_616x353.jpg)
+
 # ดาวโหลด Mod DEMO ภาษาไทยฟรี 2022
+## MOD ไทยสำหรับการทดลองใช้ อัพเดทเมือ 1 สิงหาคม2022 รองรับภาค high school years
+![ts4-key-art-16x9-ep-12](https://user-images.githubusercontent.com/13219372/182015669-8b4269ff-9a4f-495e-94a5-c5197fefd19c.jpg)
+
 
 ### เงื่อนไขการใช้งาน
 - ใช้งานได้ฟรี ส่วนการแปลตามภาคที่ออกในปี 2022
@@ -8,11 +11,6 @@
 - ใช้ในการสตรีมเกมได้ โดยไม่แก้ไขดัดแปลโลโก้หรือข้อความ 
 - ปรับปรุงแก้ไข CAS การเล่นสำหรับเกมแท้อัพเดทในเดือนกรกฏาคม
 - สระลอยและอาจจะไม่สมบูณ์ในการแสดงผล
-
-
-## MOD ไทยสำหรับการทดลองใช้ อัพเดทเมือ 1 สิงหาคม2022 รองรับภาค high school years
-![ts4-key-art-16x9-ep-12](https://user-images.githubusercontent.com/13219372/182015669-8b4269ff-9a4f-495e-94a5-c5197fefd19c.jpg)
-
 
 | MOD   | THE SIMS 4 |
 | ------------- | ------------- |
@@ -31,7 +29,7 @@
 ติดต่อสอบถาม
 
 -[facebook.com/SimsColony/](https://www.facebook.com/SimsColony)
-
+ ![SIMS4DEMO](https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_616x353.jpg)
 
 -------------------------------------------
 # การลงไฟล์
