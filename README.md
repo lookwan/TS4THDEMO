@@ -3,8 +3,13 @@
 # ดาวโหลด Mod DEMO ภาษาไทยฟรี 2022
 ## MOD ไทยสำหรับการทดลองใช้ 
 
-# อัพเดทเมือ 1 สิงหาคม2022 รองรับภาค high school years
+# อัพเดทเมือ 3 สิงหาคม2022 รองรับภาค high school years
 ![HSY_DEMO_Simscolony](https://user-images.githubusercontent.com/13219372/182023795-8dd05ea6-68b8-4932-912d-8f4ec92c1eaf.jpg)
+
+- อัพเดทเพิ่มเติม Social Bunny
+- ระบบการเรียนใหม่ของ High School Years
+- ระบบการตอบโต้ข้อความในเกมหลัก
+- แปลเพิ่มคำสั่งพื้นฐานของเกมหลัก
 
 
 ### เงื่อนไขการใช้งาน
