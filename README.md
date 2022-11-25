@@ -22,11 +22,11 @@
 | MOD   | THE SIMS 4 |
 | ------------- | ------------- |
 |GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2022](https://github.com/simscolony/TS4THDEMO/raw/master/%5BSIMSCOLONY%5D_Sims4_HSY_2022.package) |
+|curseforge MOD ภาษาไทย   | [curseforge simscolony](https://www.curseforge.com/members/simscolony/projects) |
 |รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย ดาวโหลดแยกได้ทันที](https://simscolony.github.io)|
 
 
 ![curseforge_Thesims](https://thesims4.curseforge.com/assets/fb2.jpg)
-[curseforge simscolony](https://www.curseforge.com/members/simscolony/projects)
 
 
 # หากพึงพอใจในผลงานสามารถสนับสนุนผ่านเพจหรือหน้าเว็บได้ทันที
