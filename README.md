@@ -3,7 +3,7 @@
 # ดาวโหลด Mod DEMO ภาษาไทยฟรี 2022
 ## MOD ไทยสำหรับการทดลองใช้ 
 
-# อัพเดทเมือ 3 สิงหาคม2022 รองรับภาค high school years
+# อัพเดทเมือ 1 มกราคา 2023 รองรับภาค high school years
 ![HSY_DEMO_Simscolony](https://user-images.githubusercontent.com/13219372/182023795-8dd05ea6-68b8-4932-912d-8f4ec92c1eaf.jpg)
 
 - อัพเดทเพิ่มเติม Social Bunny
@@ -21,7 +21,7 @@
 
 | DETAILE   | THE SIMS 4 Download MOD |
 | ------------- | ------------- |
-|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2022](https://github.com/simscolony/TS4THDEMO/raw/master/%5BSIMSCOLONY%5D_Sims4_HSY_2022.package) |
+|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2023](https://github.com/simscolony/TS4THDEMO/raw/master/%5BSIMSCOLONY%5D_SIMS4_THAI_DEMO_2023.package) |
 |curseforge MOD ภาษาไทย   | [curseforge simscolony](https://www.curseforge.com/members/simscolony/projects) |
 |รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย ดาวโหลดแยกได้ทันที](https://simscolony.github.io)|
 
