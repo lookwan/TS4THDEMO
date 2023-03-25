@@ -21,11 +21,11 @@
 
 | DETAILE   | THE SIMS 4 Download MOD |
 | ------------- | ------------- |
-|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2023]() |
-|curseforge MOD ภาษาไทย   | [curseforge simscolony](https://www.curseforge.com/members/simscolony/projects) |
+|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2023](https://www.curseforge.com/sims4/mods/simscolony-translation-thai-localization-thailand) |
+|curseforge MOD ภาษาไทย   | [curseforge simscolony](https://www.curseforge.com/sims4/mods/simscolony-translation-thai-localization-thailand) |
 |รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย ดาวโหลดแยกได้ทันที](https://simscolony.github.io)|
 
-
+ดาวโหลดโปรแกรมได้ที่ https://download.curseforge.com/
 ![curseforge_Thesims](https://thesims4.curseforge.com/assets/fb2.jpg)
 
 
