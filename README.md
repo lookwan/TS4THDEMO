@@ -1,10 +1,10 @@
 
 
-# ดาวโหลด Mod DEMO ภาษาไทยฟรี 2022
+# ดาวโหลด Mod DEMO ภาษาไทยฟรี 2023
 ## MOD ไทยสำหรับการทดลองใช้ 
 
-# อัพเดทเมือ 8 มกราคา 2023 รองรับภาค high school years
-![HSY_DEMO_Simscolony](https://user-images.githubusercontent.com/13219372/182023795-8dd05ea6-68b8-4932-912d-8f4ec92c1eaf.jpg)
+# อัพเดทเมือ 26 มีนาคม2023 รองรับภาค growing together
+![GROW_DEMO_Simscolony](https://i.imgur.com/z7UvHTg.png)
 
 - อัพเดทเพิ่มเติม Social Bunny
 - ระบบการเรียนใหม่ของ High School Years
@@ -21,7 +21,7 @@
 
 | DETAILE   | THE SIMS 4 Download MOD |
 | ------------- | ------------- |
-|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2023](https://github.com/simscolony/TS4THDEMO/raw/master/%5BSIMSCOLONY%5D_SIMS4_THAI_DEMO_2023.package) |
+|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2023]() |
 |curseforge MOD ภาษาไทย   | [curseforge simscolony](https://www.curseforge.com/members/simscolony/projects) |
 |รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย ดาวโหลดแยกได้ทันที](https://simscolony.github.io)|
 
@@ -112,6 +112,8 @@
 | 45.Little Campers Kit | 100%**| 
 | 46.The Sims™ 4 Werewolves | 43.38%| 
 | 47.The Sims™ 4 high school years | 10.38%| 
+| 48.The Sims™ 4 Growing Todther | 7.5%| 
+
 
 ![TS4THDEMO](https://i.imgur.com/Cb0ETW7.jpg)
 ![TS4THDEMO](https://i.imgur.com/WX3uPMf.jpg)
